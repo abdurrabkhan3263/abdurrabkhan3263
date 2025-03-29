@@ -6,7 +6,7 @@
 </p>
 </h1>
 
-<h2 align="center">I'm a developer who loves building web apps </br></br></h2>
+<h3 align="center">I'm a developer who loves building web apps </br></br></h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
